@@ -20,6 +20,7 @@ Země je v háji. Musíme zachránit ekobionanomultisféru, jinak pomřeme.
   * Nákup pozemku
   * Výklad pozemku
   * Akční schopnost pozemku
+  * Znič svůj vyložený pozemek
 * Kolo
   * Taková ta kulatá věc
   * A taky jeden set vyhodnocení (např. vyhodnocení za celý den)
