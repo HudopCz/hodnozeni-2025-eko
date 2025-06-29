@@ -1,4 +1,4 @@
-# PRAVIVDLA
+# PRAVIDLA
 
 Země je v háji. Musíme zachránit ekobionanomultisféru, jinak pomřeme.
 
